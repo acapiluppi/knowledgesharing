@@ -1,0 +1,81 @@
+Emse2010-2020-PDF/s10664-010-9141-9.pdf: URL for Rep Pack -> TP: <META>
+Emse2010-2020-PDF/s10664-012-9199-7.pdf: URL for Rep Pack -> 14,24
+Emse2010-2020-PDF/s10664-013-9244-1.pdf: URL for Rep Pack -> FN: www.win.tue.nl/mdse/gnome
+Emse2010-2020-PDF/s10664-013-9250-3.pdf: URL for Rep Pack -> FN: linked to another publication
+Emse2010-2020-PDF/s10664-013-9260-1.pdf: URL for Rep Pack -> TP: not linked
+Emse2010-2020-PDF/s10664-013-9261-0.pdf: URL for Rep Pack -> FN: www.cs.loyola.edu/~lawrie/id-splitting-data
+Emse2010-2020-PDF/s10664-013-9269-5.pdf: URL for Rep Pack -> 31
+Emse2010-2020-PDF/s10664-013-9285-5.pdf: URL for Rep Pack -> 4
+Emse2010-2020-PDF/s10664-013-9292-6.pdf: URL for Rep Pack -> 4
+Emse2010-2020-PDF/s10664-014-9313-0.pdf: URL for Rep Pack -> FN: linked to another publication
+Emse2010-2020-PDF/s10664-014-9314-z.pdf: URL for Rep Pack -> TP: not linked
+Emse2010-2020-PDF/s10664-014-9315-y.pdf: URL for Rep Pack -> 4
+Emse2010-2020-PDF/s10664-014-9325-9.pdf: URL for Rep Pack -> 13
+Emse2010-2020-PDF/s10664-014-9350-8.pdf: URL for Rep Pack -> 10
+Emse2010-2020-PDF/s10664-015-9371-y.pdf: URL for Rep Pack -> 13
+Emse2010-2020-PDF/s10664-015-9393-5.pdf: URL for Rep Pack -> 31
+Emse2010-2020-PDF/s10664-015-9397-1.pdf: URL for Rep Pack -> 4
+Emse2010-2020-PDF/s10664-015-9404-6.pdf: URL for Rep Pack -> 5
+Emse2010-2020-PDF/s10664-016-9429-5.pdf: URL for Rep Pack -> 44
+Emse2010-2020-PDF/s10664-016-9467-z.pdf: URL for Rep Pack -> 8
+Emse2010-2020-PDF/s10664-016-9481-1.pdf: URL for Rep Pack -> TP <META>
+Emse2010-2020-PDF/s10664-016-9486-9.pdf: URL for Rep Pack -> 13
+Emse2010-2020-PDF/s10664-016-9489-6.pdf: URL for Rep Pack -> 6
+Emse2010-2020-PDF/s10664-016-9492-y.pdf: URL for Rep Pack -> TP <META>
+Emse2010-2020-PDF/s10664-017-9521-5.pdf: URL for Rep Pack -> 3
+Emse2010-2020-PDF/s10664-017-9529-x.pdf: URL for Rep Pack -> 9
+Emse2010-2020-PDF/s10664-017-9536-y.pdf: URL for Rep Pack -> 8
+Emse2010-2020-PDF/s10664-017-9537-x.pdf: URL for Rep Pack -> 9
+Emse2010-2020-PDF/s10664-017-9540-2.pdf: URL for Rep Pack -> FN: linked to another publication
+Emse2010-2020-PDF/s10664-017-9545-x.pdf: URL for Rep Pack -> 30
+Emse2010-2020-PDF/s10664-017-9590-5.pdf: URL for Rep Pack -> FN: linked to another publication
+Emse2010-2020-PDF/s10664-017-9593-2.pdf: URL for Rep Pack -> 6
+Emse2010-2020-PDF/s10664-018-9595-8.pdf: URL for Rep Pack -> 6
+Emse2010-2020-PDF/s10664-018-9607-8.pdf: URL for Rep Pack -> 4
+Emse2010-2020-PDF/s10664-018-9608-7.pdf: URL for Rep Pack -> 19,20
+Emse2010-2020-PDF/s10664-018-9630-9.pdf: URL for Rep Pack -> 4
+Emse2010-2020-PDF/s10664-018-9639-0.pdf: URL for Rep Pack -> 24,26
+Emse2010-2020-PDF/s10664-018-9645-2.pdf: URL for Rep Pack -> 30
+Emse2010-2020-PDF/s10664-018-9646-1.pdf: URL for Rep Pack -> 38
+Emse2010-2020-PDF/s10664-018-9653-2.pdf: URL for Rep Pack -> 2,8
+Emse2010-2020-PDF/s10664-018-9658-x.pdf: URL for Rep Pack -> 3
+Emse2010-2020-PDF/s10664-018-9659-9.pdf: URL for Rep Pack -> 25
+Emse2010-2020-PDF/s10664-018-9661-2.pdf: URL for Rep Pack -> 36
+Emse2010-2020-PDF/s10664-018-9666-x.pdf: URL for Rep Pack -> 3
+Emse2010-2020-PDF/s10664-018-9669-7.pdf: URL for Rep Pack -> 4
+Emse2010-2020-PDF/s10664-018-9672-z.pdf: URL for Rep Pack -> 16,8
+Emse2010-2020-PDF/s10664-018-9676-8.pdf: URL for Rep Pack -> FN: linked to another publication
+Emse2010-2020-PDF/s10664-018-9679-5.pdf: URL for Rep Pack -> 32
+Emse2010-2020-PDF/s10664-019-09683-z.pdf: URL for Rep Pack -> RETRACTED ARTICLE
+Emse2010-2020-PDF/s10664-019-09687-9.pdf: URL for Rep Pack -> 20,5,6
+Emse2010-2020-PDF/s10664-019-09690-0.pdf: URL for Rep Pack -> 36
+Emse2010-2020-PDF/s10664-019-09704-x.pdf: URL for Rep Pack -> 28,3
+Emse2010-2020-PDF/s10664-019-09706-9.pdf: URL for Rep Pack -> 6
+Emse2010-2020-PDF/s10664-019-09712-x.pdf: URL for Rep Pack -> 2,3,4
+Emse2010-2020-PDF/s10664-019-09722-9.pdf: URL for Rep Pack -> 14
+Emse2010-2020-PDF/s10664-019-09723-8.pdf: URL for Rep Pack -> 8
+Emse2010-2020-PDF/s10664-019-09738-1.pdf: URL for Rep Pack -> TP <META>
+Emse2010-2020-PDF/s10664-019-09739-0.pdf: URL for Rep Pack -> 40
+Emse2010-2020-PDF/s10664-019-09750-5.pdf: URL for Rep Pack -> FN: linked to another publication
+Emse2010-2020-PDF/s10664-019-09751-4.pdf: URL for Rep Pack -> 35
+Emse2010-2020-PDF/s10664-019-09754-1.pdf: URL for Rep Pack -> FN: linked to another publication
+Emse2010-2020-PDF/s10664-019-09758-x.pdf: URL for Rep Pack -> 15,40
+Emse2010-2020-PDF/s10664-019-09762-1.pdf: URL for Rep Pack -> 25,3
+Emse2010-2020-PDF/s10664-019-09769-8.pdf: URL for Rep Pack -> 25
+Emse2010-2020-PDF/s10664-019-09781-y.pdf: URL for Rep Pack -> 40
+Emse2010-2020-PDF/s10664-019-09785-8.pdf: URL for Rep Pack -> FN: linked to another publication
+Emse2010-2020-PDF/s10664-019-09798-3.pdf: URL for Rep Pack -> 5,7
+Emse2010-2020-PDF/s10664-020-09810-1.pdf: URL for Rep Pack -> 15
+Emse2010-2020-PDF/s10664-020-09822-x.pdf: URL for Rep Pack -> 11,3
+Emse2010-2020-PDF/s10664-020-09823-w.pdf: URL for Rep Pack -> FN: linked to another publication
+Emse2010-2020-PDF/s10664-020-09843-6.pdf: URL for Rep Pack -> TP: not linked
+Emse2010-2020-PDF/s10664-020-09851-6.pdf: URL for Rep Pack -> 1,3,7
+Emse2010-2020-PDF/s10664-020-09858-z.pdf: URL for Rep Pack -> 10,14,3
+Emse2010-2020-PDF/s10664-020-09866-z.pdf: URL for Rep Pack -> 9
+Emse2010-2020-PDF/s10664-020-09870-3.pdf: URL for Rep Pack -> 24,27,4,8
+Emse2010-2020-PDF/s10664-020-09877-w.pdf: URL for Rep Pack -> 25,28,3
+Emse2010-2020-PDF/s10664-020-09878-9.pdf: URL for Rep Pack -> 14
+Emse2010-2020-PDF/s10664-020-09881-0.pdf: URL for Rep Pack -> 20,36
+Emse2010-2020-PDF/s10664-020-09883-y.pdf: URL for Rep Pack -> TP: not linked
+Emse2010-2020-PDF/s10664-020-09885-w.pdf: URL for Rep Pack -> 13
+Emse2010-2020-PDF/s10664-020-09886-9.pdf: URL for Rep Pack -> 15
