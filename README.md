@@ -8,3 +8,6 @@ The RepPackages-pop7.sh script:
     * it produces a list of page locations within a paper that might contain the link to the replication package
     
     * for each page location, the script extract the three lines "preceding" the <replication package> stopwords and the three lines "after" that
+
+
+    To replicate, papers need to be downloaded first: we are NOT distributing the PDFtoTXT output(s) because that would infringe copyright!

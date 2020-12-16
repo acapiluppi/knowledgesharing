@@ -8,6 +8,6 @@ usage: ./python3 ./python_TOPICS_2.py <name of text file containing a research p
 
 ====== SUPERVISED ML script
 The python_sLDA script uses one of the training datasets (e.g., with full labels, short labels or only top-labels) produced in the first pipeline.
-It takes an <unseen> text to predict its label(s), using the training from the larger datasets
+It takes an <unseen> text to predict its label(s), using the training from the larger datasets. Based on Bag-of-words, LDA and lemmatisation
 
 usage: ./python3 ./python_sLDA <name of unseen text file containing a research paper>
